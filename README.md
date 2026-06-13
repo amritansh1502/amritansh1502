@@ -20,7 +20,7 @@ Software Engineering Intern at **Red Hat** based in **Bangalore**. I work on Kub
 
 ### Technologies & Tools
 
-- **Languages:** Go (Golang)
+- **Languages:** Go (Golang), C, C++
 - **Platforms:** Kubernetes, OpenShift, Linux (RHEL)
 - **Tools & Runtimes:** CRI-O, kubelet, container probes, gRPC, NRI
 
