@@ -27,7 +27,7 @@ Software Engineering Intern at **Red Hat** based in **Bangalore**. I work on Kub
 ### Kubernetes Upstream Contributions (SIG Node)
 
 - **KEP-4939:** TLS support for gRPC container probes (merged, v1.37)
-- **KEP-5999:** HTTP/2 cleartext (h2c) for container probes (proposed, v1.37)
+- **KEP-5999:** HTTP/2 cleartext (h2c) for container probes (merged, v1.37)
 - kubelet: TLS support for gRPC probe implementation
 - Fix zero PSI metrics when OS doesn't enable PSI (v1.36)
 - Enforce explicit HTTP method restrictions for kubelet endpoints (v1.37)
