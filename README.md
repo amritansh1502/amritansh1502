@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there, I'm Amritansh!
 
-Software Engineering Intern at **Red Hat** based in **Bangalore**. I work on Kubernetes internals, OpenShift platform engineering, and container runtimes.
+Associate Software Engineer at **Red Hat** based in **Bangalore**. I work on Kubernetes internals, OpenShift platform engineering, and container runtimes.
 
 ### Technologies & Tools
 
